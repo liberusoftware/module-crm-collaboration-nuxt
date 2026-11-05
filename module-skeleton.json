@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-collaboration-nuxt",
+  "capabilityKey": "liberusoftware/module-crm-collaboration",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-crm-collaboration-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/crm/nextjs/collaboration.md",
+  "presentationPlan": "projects/crm/nuxt/collaboration.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
